@@ -1,6 +1,6 @@
 # Assignment for Class 2 - jQuery and Events
 
-Today we will work on adding sigle-page tabs to the blog.  We will also add the ability to select articles by category or author name as a way to filter the view
+Today we will work on adding single-page tabs to the blog.  We will also add the ability to select articles by category or author name as a way to filter the view
 
 We will use jQuery events to make this happen.
 

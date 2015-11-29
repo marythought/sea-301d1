@@ -13,7 +13,7 @@ We'll use a special html page, not linked from the main page, that will allow yo
 
 ## User Stories
  - As an author, I want a secret URL where I can go write articles, so that blog visitors don't think they can create posts.
- - As an author, I want a form fields for all the article properties, so that I can customize each aspect of my article.
+ - As an author, I want form fields for all the article properties, so that I can customize each aspect of my article.
  - As an author, I want to write in Markdown, so that I can easily control formatting.
  - As an author, I want a live preview of how my post looks, so that I know if I screw up the markdown.
  - As an author, I want code samples to have syntax highlighting, so that my readers see code as it should appear.
